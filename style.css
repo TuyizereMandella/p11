@@ -1,0 +1,39 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.278448f94483eb453563be8d9822d520?rik=P3Lb0UFDIa%2b9rw&pid=ImgRaw&r=0);
+    color:3px blueviolet;
+  }
+
+  legend{
+    padding-left:2px;
+    color: Blue;
+    background-color: aquamarine;
+  }
+  fieldset{
+    margin-top: 20px;
+    border-radius: 45px;
+    
+    width: 50%;
+    height: 50%;
+    box-shadow: 10px 3px 20px 30px yellowgreen;
+  }
+  fieldset:hover{
+    background: linear-gradient(90deg,rgb(102, 102, 252),rgb(0, 255, 76));
+  }
+  fieldset input{
+    background-color: rgb(220, 255, 150);
+    border-radius: 8px;
+    border: 2px solid blue;
+  }
+  fieldset input:hover{
+    background-color: rgb(255, 255, 255);
+  }
+  button{
+    background-color: rgb(43, 11, 251);
+    border-radius: 10px;
+    border: 2px solid grey;
+    width: 80px;
+    color: aqua;
+  }
+  button:hover{
+    background-color: black;
+  }
